@@ -1,0 +1,23 @@
+.profTeach {
+  background-color: #feed02;
+}
+
+.bgright {
+  background-image: url("../../assets/blue_rac.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: "30px";
+}
+
+.bgleft {
+  background-image: url("../../assets/red_rac.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.proteachskills {
+  background-image: url("../../assets/snow.png");
+  background-repeat: no-repeat;
+  background-position: 699px 34px;
+  background-size: 80px 80px;
+}

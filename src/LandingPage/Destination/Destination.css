@@ -1,0 +1,22 @@
+.Destisnow {
+  background-color: #3642ef;
+}
+
+.DRghtpest {
+  background-image: url("../../assets/DRghtpest.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: "30px";
+}
+
+.DLftyellow {
+  background-image: url("../../assets/DLftyellow.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.destinationstar {
+  background-image: url("../../assets/black_star.png");
+  background-repeat: no-repeat;
+  background-position: 272px 31px;
+  background-size: 63px 63px;
+}
